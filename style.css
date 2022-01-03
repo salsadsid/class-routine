@@ -1,0 +1,22 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.single-box{
+    width:11%;
+    background-color: darkolivegreen;
+    border: 5px solid #212F3C ;
+    text-align: center;
+    font-weight: 700;
+    color: lightgray;
+}
+.row{
+    display: flex;
+    margin-left: 5%;
+    }
+.top-header{
+    text-align: center;
+}
+.break{
+    color: black;
+    font-size: 15px;
+}
